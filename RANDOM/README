@@ -1,1 +1,5 @@
-
+%this code copies a single file from multiple folders  and saves them in
+%a single folder. It works if you want to copy a series of files.
+%All folders must be in the same location. Only one file can be moved from
+%each folder.
+%Complete the actions indicated in the section "start of the code" before running the code 
